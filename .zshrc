@@ -60,17 +60,9 @@ bindkey -M visual '^[[P' vi-delete
 
 
 ##alias
-alias dn="sudo dnf"
-alias dni="sudo dnf install"
-alias dnr="sudo dnf remove"
-
-
-alias g="git"
-alias ga="git add"
-alias gm="git commit -m"
-alias gp="git push"
-alias gc="git clone"
-
+alias install="sudo pacman -S"
+alias remove="sudo pacman -Rns"
+alias up="sudo pacman -syu"
 alias grep="grep --color"
 alias ls='ls --color=auto'
 alias l='lsd'
