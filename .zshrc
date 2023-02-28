@@ -62,7 +62,7 @@ bindkey -M visual '^[[P' vi-delete
 ##alias
 alias install="sudo pacman -S"
 alias remove="sudo pacman -Rns"
-alias up="sudo pacman -syu"
+alias up="sudo pacman -Syu"
 alias grep="grep --color"
 alias ls='ls --color=auto'
 alias l='lsd'
