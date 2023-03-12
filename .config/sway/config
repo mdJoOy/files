@@ -5,18 +5,24 @@
 # Read `man 5 sway` for a complete reference.
 
 exec dunst
+exec gammastep -l 24.244968:89.911305
+
 
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
 set $mod Mod4
 
+
 # title, gap, border 
 default_border pixel 2
 smart_borders on
 gaps inner 5
 
+
+#font
 font jetbrains mono 10
+
 
 # Idle and lock
 exec swayidle -w \
@@ -26,6 +32,7 @@ exec swayidle -w \
 # didable sleep for
 for_window [app_id="firefox"] inhibit_idle fullscreen
 for_window [app_id="mpv"] inhibit_idle fullscreen	 
+
 
 #screenshot tools
 bindsym Print exec grim - | tee /home/joy/Pictures/ss/$(date '+%d_%m_%y_%I:%M_%p').png | wl-copy && notify-send "ScreenShot" "taken && Copied" -t 550
@@ -46,7 +53,7 @@ set $menu wofi --show drun
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/joy/Pictures/Wallpapers/1579890.jpg fill
+output * bg /home/joy/Pictures/Wallpapers/cherry-flower-some-sky.jpg fill
 #
 # Example configuration:
 #
