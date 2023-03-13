@@ -1,6 +1,6 @@
 exec dunst
 exec gammastep -l 24.244968:89.911305
-
+exec ~/.config/sway/wall	
 
 ### Variables
 #
