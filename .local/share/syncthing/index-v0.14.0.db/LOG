@@ -1,0 +1,31 @@
+=============== Mar 22, 2023 (+06) ===============
+13:59:20.858456 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:59:20.875664 db@open opening
+13:59:20.876862 version@stat F·[] S·0B[] Sc·[]
+13:59:20.882360 db@janitor F·2 G·0
+13:59:20.882391 db@open done T·6.700987ms
+13:59:22.252116 memdb@flush N·46 S·1KiB
+13:59:22.261996 memdb@flush created L0@3 N·46 S·597B "\ndb..ion,v46":"\nla..ime,v19"
+13:59:22.262063 version@stat F·[1] S·597B[597B] Sc·[0.25]
+13:59:22.267325 memdb@flush committed F·1 T·15.162653ms
+13:59:22.267413 journal@remove removed @1
+13:59:22.267439 table@compaction range L-1 "":""
+13:59:22.267465 table@compaction L0·1 -> L1·0 S·597B Q·46
+13:59:22.270933 table@build created L1@4 N·4 S·207B "\ndb..ion,v46":"\nla..ime,v19"
+13:59:22.270968 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+13:59:22.276668 table@compaction committed F~ S-390B Ke·0 D·42 T·9.180572ms
+13:59:22.276878 table@remove removed @3
+14:23:19.162936 db@close closing
+14:23:19.163169 db@close done T·230.729µs
+=============== Mar 22, 2023 (+06) ===============
+14:23:21.192861 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:23:21.193001 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+14:23:21.193028 db@open opening
+14:23:21.193071 journal@recovery F·1
+14:23:21.193841 journal@recovery recovering @2
+14:23:21.204148 memdb@flush created L0@5 N·48 S·1KiB "\x03UQ..ion,v94":"\x11\xa4!.. \x92@,v59"
+14:23:21.204487 version@stat F·[1 1] S·1KiB[1KiB 207B] Sc·[0.25 0.00]
+14:23:21.219617 db@janitor F·4 G·0
+14:23:21.219640 db@open done T·26.605247ms
+14:23:28.586923 db@close closing
+14:23:28.587256 db@close done T·330.384µs

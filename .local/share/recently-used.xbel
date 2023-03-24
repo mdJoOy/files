@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/joy/Pictures/Wallpapers" added="2023-03-22T05:53:58.664277Z" modified="2023-03-22T05:53:58.664280Z" visited="2023-03-22T05:53:58.664278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-22T05:53:58.664279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/platform-tools_r34.0.1-linux.zip" added="2023-03-22T07:12:44.494279Z" modified="2023-03-22T07:12:44.494286Z" visited="2023-03-22T07:12:44.494280Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-22T07:12:44.494283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/.local/bin" added="2023-03-22T07:13:29.440285Z" modified="2023-03-22T07:13:29.440295Z" visited="2023-03-22T07:13:29.440287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-22T07:13:29.440290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/PixelExperience_Plus_a52q-13.0-20230226-1221-OFFICIAL.img" added="2023-03-23T06:36:44.878941Z" modified="2023-03-23T06:36:44.878948Z" visited="2023-03-23T06:36:44.878942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T06:36:44.878945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/com.tachibana.downloader_15.apk" added="2023-03-23T15:30:10.700623Z" modified="2023-03-23T15:30:10.700628Z" visited="2023-03-23T15:30:10.700624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T15:30:10.700625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/org.proninyaroslav.libretorrent_25.apk" added="2023-03-23T15:47:25.710425Z" modified="2023-03-23T15:47:25.710437Z" visited="2023-03-23T15:47:25.710427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T15:47:25.710432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R58T106LL4R/Internal%20shared%20storage/Download" added="2023-03-23T15:58:15.280805Z" modified="2023-03-23T18:57:36.105066Z" visited="2023-03-23T15:58:15.280806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T18:57:36.105064Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/com.nutomic.syncthingandroid_4336.apk" added="2023-03-23T16:01:40.943244Z" modified="2023-03-23T16:01:40.943251Z" visited="2023-03-23T16:01:40.943245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T16:01:40.943247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/A52_4g_patched_vbmeta.tar" added="2023-03-23T17:29:02.725874Z" modified="2023-03-23T17:29:02.725880Z" visited="2023-03-23T17:29:02.725875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T17:29:02.725877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R58T106LL4R/Internal%20storage/Download" added="2023-03-23T17:30:49.996534Z" modified="2023-03-23T18:33:14.467270Z" visited="2023-03-23T17:30:49.996535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T18:33:14.467265Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/A52q/custom_rom" added="2023-03-23T17:38:46.327239Z" modified="2023-03-23T17:38:46.327243Z" visited="2023-03-23T17:38:46.327240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T17:38:46.327241Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/twrp-3.7.0_12-2-a52q.img" added="2023-03-23T17:52:18.198177Z" modified="2023-03-23T18:38:00.407399Z" visited="2023-03-23T17:52:18.198178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T18:38:00.407394Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://SAMSUNG_SAMSUNG_Android_R58T106LL4R/Internal%20shared%20storage" added="2023-03-23T18:57:21.552210Z" modified="2023-03-23T18:57:47.448630Z" visited="2023-03-23T18:57:21.552210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T18:57:47.448628Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/archlinux-2023.03.01-x86_64.iso.sig" added="2023-03-23T21:30:43.661979Z" modified="2023-03-23T21:30:43.661984Z" visited="2023-03-23T21:30:43.661980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pgp-signature"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T21:30:43.661981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/archlinux-bootstrap-2023.03.01-x86_64.tar.gz.sig" added="2023-03-23T21:30:47.102297Z" modified="2023-03-23T21:30:47.102304Z" visited="2023-03-23T21:30:47.102298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pgp-signature"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T21:30:47.102300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/archlinux-2023.03.01-x86_64.iso" added="2023-03-23T21:39:04.009355Z" modified="2023-03-23T21:39:04.009361Z" visited="2023-03-23T21:39:04.009356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-23T21:39:04.009358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/peakpx.jpg" added="2023-03-24T09:06:59.621799Z" modified="2023-03-24T09:06:59.621804Z" visited="2023-03-24T09:06:59.621800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-24T09:06:59.621801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joy/Downloads/animation.gif.mp4" added="2023-03-24T14:12:12.555393Z" modified="2023-03-24T14:12:12.555405Z" visited="2023-03-24T14:12:12.555394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-03-24T14:12:12.555399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

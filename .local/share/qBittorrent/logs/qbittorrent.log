@@ -1,0 +1,79 @@
+(N) 2023-03-22T13:10:23 - qBittorrent v4.5.2 started
+(N) 2023-03-22T13:10:23 - Using config directory: /home/joy/.config/qBittorrent
+(N) 2023-03-22T13:10:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:28344,[::]:28344"
+(I) 2023-03-22T13:10:25 - Peer ID: "-qB4520-"
+(I) 2023-03-22T13:10:25 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-03-22T13:10:25 - Distributed Hash Table (DHT) support: ON
+(I) 2023-03-22T13:10:25 - Local Peer Discovery support: ON
+(I) 2023-03-22T13:10:25 - Peer Exchange (PeX) support: ON
+(I) 2023-03-22T13:10:25 - Anonymous mode: OFF
+(I) 2023-03-22T13:10:25 - Encryption support: ON
+(I) 2023-03-22T13:10:25 - UPnP/NAT-PMP support: ON
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "192.168.0.3". Port: "TCP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "192.168.0.3". Port: "UTP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "::1". Port: "TCP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "::1". Port: "UTP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "TCP/28344"
+(I) 2023-03-22T13:10:25 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "UTP/28344"
+(W) 2023-03-22T13:10:25 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2023-03-22T13:10:25 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: TCP/28344"
+(I) 2023-03-22T13:10:25 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: UDP/28344"
+(I) 2023-03-22T13:10:25 - Detected external IP. IP: "178.128.93.105"
+(N) 2023-03-22T13:10:32 - qBittorrent termination initiated
+(I) 2023-03-22T13:10:32 - UPnP/NAT-PMP support: OFF
+(N) 2023-03-22T13:10:32 - qBittorrent is now ready to exit
+(N) 2023-03-24T16:59:05 - qBittorrent v4.5.2 started
+(N) 2023-03-24T16:59:05 - Using config directory: /home/joy/.config/qBittorrent
+(N) 2023-03-24T16:59:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:28344,[::]:28344"
+(I) 2023-03-24T16:59:06 - Peer ID: "-qB4520-"
+(I) 2023-03-24T16:59:06 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-03-24T16:59:06 - Distributed Hash Table (DHT) support: ON
+(I) 2023-03-24T16:59:06 - Local Peer Discovery support: ON
+(I) 2023-03-24T16:59:06 - Peer Exchange (PeX) support: ON
+(I) 2023-03-24T16:59:06 - Anonymous mode: OFF
+(I) 2023-03-24T16:59:06 - Encryption support: ON
+(I) 2023-03-24T16:59:06 - UPnP/NAT-PMP support: ON
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "192.168.0.3". Port: "TCP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "192.168.0.3". Port: "UTP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "::1". Port: "TCP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "::1". Port: "UTP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "TCP/28344"
+(I) 2023-03-24T16:59:06 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "UTP/28344"
+(W) 2023-03-24T16:59:06 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2023-03-24T16:59:06 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: TCP/28344"
+(I) 2023-03-24T16:59:06 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: UDP/28344"
+(I) 2023-03-24T16:59:11 - Detected external IP. IP: "103.129.210.90"
+(I) 2023-03-24T16:59:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Mar 1 07:21:15 2023.
+(I) 2023-03-24T16:59:23 - Successfully updated IP geolocation database.
+(N) 2023-03-24T17:01:02 - qBittorrent termination initiated
+(I) 2023-03-24T17:01:02 - UPnP/NAT-PMP support: OFF
+(N) 2023-03-24T17:01:02 - qBittorrent is now ready to exit
+(N) 2023-03-24T20:46:49 - qBittorrent v4.5.2 started
+(N) 2023-03-24T20:46:49 - Using config directory: /home/joy/.config/qBittorrent
+(N) 2023-03-24T20:46:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:28344,[::]:28344"
+(I) 2023-03-24T20:46:49 - Peer ID: "-qB4520-"
+(I) 2023-03-24T20:46:49 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-03-24T20:46:49 - Distributed Hash Table (DHT) support: ON
+(I) 2023-03-24T20:46:49 - Local Peer Discovery support: ON
+(I) 2023-03-24T20:46:49 - Peer Exchange (PeX) support: ON
+(I) 2023-03-24T20:46:49 - Anonymous mode: OFF
+(I) 2023-03-24T20:46:49 - Encryption support: ON
+(I) 2023-03-24T20:46:49 - UPnP/NAT-PMP support: ON
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "192.168.0.3". Port: "TCP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "192.168.0.3". Port: "UTP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "::1". Port: "TCP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "::1". Port: "UTP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "TCP/28344"
+(I) 2023-03-24T20:46:49 - Successfully listening on IP. IP: "fe80::82e:b901:e4e9:d6ab%wlan0". Port: "UTP/28344"
+(I) 2023-03-24T20:46:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Wed Mar 1 07:21:15 2023.
+(I) 2023-03-24T20:46:49 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: TCP/28344"
+(I) 2023-03-24T20:46:49 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 192.168.0.3 external port: UDP/28344"
+(N) 2023-03-24T20:46:54 - qBittorrent termination initiated
+(I) 2023-03-24T20:46:54 - UPnP/NAT-PMP support: OFF
+(N) 2023-03-24T20:46:57 - qBittorrent is now ready to exit
